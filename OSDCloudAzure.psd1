@@ -4,15 +4,15 @@
 
 @{
     RootModule = 'OSDCloudAzure.psm1'
-    ModuleVersion = '22.10.17.1'
+    ModuleVersion = '22.10.18.1'
     CompatiblePSEditions = @('Desktop')
     GUID = 'ded8e967-9fc3-4e54-b4c0-5415790c6d4f'
     Author = 'David Segura'
     CompanyName = 'David Segura'
     Copyright = '(c) 2022 David Segura'
-    Description = 'The OSDCloud Azure PowerShell Module allows you to OSD from Azure Storage'
+    Description = 'OSDCloudAzure PowerShell Module'
     PowerShellVersion = '5.1'
-    FunctionsToExport = @('Connect-OSDCloudAzure','Get-OSDCloudAzureResources','Initialize-OSDCloudAzure')
+    FunctionsToExport = @()
     CmdletsToExport = @()
     VariablesToExport = @()
     AliasesToExport = '*'
