@@ -4,7 +4,7 @@
 
 @{
     RootModule = 'OSDCloudAzure.psm1'
-    ModuleVersion = '22.10.18.1'
+    ModuleVersion = '22.10.19.1'
     CompatiblePSEditions = @('Desktop')
     GUID = 'ded8e967-9fc3-4e54-b4c0-5415790c6d4f'
     Author = 'David Segura'
